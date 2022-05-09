@@ -12,7 +12,7 @@
       "description": "API de teste"
     },
     {
-      "url": "https://api-elgeladon.herokuapp.com/paletas",
+      "url": "https://lopezpaleta-blue.onrender.com/paletas/api-docs/",
       "description": "API de produção"
     }
   ],
